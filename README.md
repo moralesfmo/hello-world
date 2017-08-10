@@ -1,6 +1,9 @@
 # hello-world
 My first repository
 
-Hi there. I used to code until I met salesforce. Now I play for living and code for fun.
+Hey!
 
-Yesterday I dreamed about a wormhole's source code, but it was gone when I awake.
+I used to code until I met salesforce.
+Now I play for living and code for fun.
+
+"Yesterday I dreamed about a wormhole's source code. It was gone when I woke up".
